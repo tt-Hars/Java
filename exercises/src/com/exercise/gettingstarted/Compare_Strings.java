@@ -1,4 +1,4 @@
-package com.exercise;
+package com.exercise.gettingstarted;
 
 public class Compare_Strings {
   public static void main(String[] args) {

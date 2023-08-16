@@ -1,4 +1,4 @@
-package com.exercise;
+package com.exercise.gettingstarted;
 
 /**
  * should only show first statement, without removing any code. 

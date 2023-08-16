@@ -1,4 +1,4 @@
-package com.exercise;
+package com.exercise.gettingstarted;
 
 public class Uppercase {
   public static void main(String[] args) {
